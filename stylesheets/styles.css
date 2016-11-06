@@ -229,6 +229,10 @@ section {
   padding-bottom:50px;
 }
 
+section ul li {
+  list-style-type: none;
+}
+
 small {
   font-size:11px;
 }
